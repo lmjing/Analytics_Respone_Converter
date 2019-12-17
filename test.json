@@ -1,0 +1,6 @@
+{
+  "responseCode": "200",
+  "message": "OK",
+  "totalCount": 0,
+  "data": "{\"series\":[{\"data\":[null,null,null,null,null,null,null,null],\"name\":\"count | RS-08N | RAW | 미세먼지 pm-10_R\",\"type\":\"area\",\"yAxis\":0}],\"xAxis\":[{\"categories\":[\"2019-01-01 10:00\",\"2019-01-01 14:00\",\"2019-01-01 16:00\",\"2019-01-01 20:00\",\"2019-01-01 22:00\",\"2019-01-02 02:00\",\"2019-01-02 04:00\",\"2019-01-02 08:00\"]}],\"yAxis\":[{\"labels\":{\"format\":\"{value} ppm\"},\"title\":{\"text\":\"RAW | 미세먼지 pm-10_R\"}}]}"
+}
